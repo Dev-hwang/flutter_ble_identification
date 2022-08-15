@@ -10,7 +10,7 @@ To use this plugin, add `flutter_ble_identification` as a [dependency in your pu
 dependencies:
   flutter_ble_identification:
     git:
-      url: http://wjhwang@112.216.130.180:9000/B-Space/flutter_ble_identification
+      url: https://github.com/Dev-hwang/flutter_ble_identification.git
       ref: master
 ```
 
